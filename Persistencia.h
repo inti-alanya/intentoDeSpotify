@@ -1,6 +1,8 @@
 #pragma once
 #include <string>
 #include "Util.h"
+#include "Spotify.h"
+
 class Persistencia
 {
 private:
@@ -18,7 +20,6 @@ private:
     bool guardarAlbumes(const Spotify& s)        const;
     bool guardarCanciones(const Spotify& s)      const;
     bool guardarUsuarios(const Spotify& s)       const;
-    bool guardarSuscripciones(const Spotify& s)  const;
     bool guardarFavoritos(const Spotify& s)      const;
     bool guardarPlaylists(const Spotify& s)      const;
 
