@@ -10,6 +10,7 @@ Album::Album(int id, string nombre, int anio,
     this->anio = anio;
     this->artista = artista;
 	this->portada = portada;
+	
 }
 Album::~Album(){}
 
