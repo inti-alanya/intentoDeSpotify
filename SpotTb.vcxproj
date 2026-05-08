@@ -147,6 +147,7 @@
     <ClInclude Include="Playlists.h" />
     <ClInclude Include="ReproductorActivo.h" />
     <ClInclude Include="Resource.h" />
+    <ClInclude Include="Spotify.h" />
     <ClInclude Include="Usuario.h" />
     <ClInclude Include="Util.h" />
   </ItemGroup>
@@ -170,6 +171,7 @@
     <ClCompile Include="Persona.cpp" />
     <ClCompile Include="Playlists.cpp" />
     <ClCompile Include="ReproductorActivo.cpp" />
+    <ClCompile Include="Spotify.cpp" />
     <ClCompile Include="SpotTb.cpp" />
     <ClCompile Include="Usuario.cpp" />
   </ItemGroup>

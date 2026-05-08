@@ -89,6 +89,9 @@
     <ClInclude Include="Util.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
+    <ClInclude Include="Spotify.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SpotTb.cpp">
@@ -137,6 +140,9 @@
       <Filter>Archivos de origen</Filter>
     </ClCompile>
     <ClCompile Include="Usuario.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Spotify.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
